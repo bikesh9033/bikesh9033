@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bikesh9033
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning BST
+- 🌱 I’m currently learning BCT
 - 💞️ I’m looking to collaborate on on a company
 - 📫 How to reach me in a company as a fresher
 - 😄 Pronouns: ...
